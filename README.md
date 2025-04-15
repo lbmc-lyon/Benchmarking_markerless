@@ -3,7 +3,7 @@
 We propose a benchmarking platform for markerless motion capture analysis, comparing markerless approaches against traditional marker-based motion analysis.
 
 This platform consists of two main components:
-1) A data repository containing experimental data (videos + marker trajectories) (link coming soon).
+1) A data repository containing experimental data (videos + marker trajectories) (https://doi.org/10.57745/LQI2MJ).
 2) This GitHub repository, which includes:
     - joint motion estimations obtained using several markerless methods (with a description of each methodology);
     - joint motion estimation obtained using marker-based data;
